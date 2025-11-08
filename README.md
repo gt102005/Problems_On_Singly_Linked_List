@@ -1,50 +1,49 @@
-# Linked List Problem Solutions
+# Problems on Singly Linked List
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
+##  Overview
 
-Welcome to my Linked List problem repository! This project serves as a personal collection of various linked list problems that I have solved. It's a way for me to track my progress, document my solutions, and practice data structures and algorithms.
+Welcome to my repository for Singly Linked List problems! This project is a personal collection of solutions to various linked list challenges. I'm using it to document my solutions, track my progress, and strengthen my understanding of data structures and algorithms.
 
 ## 📚 What's Inside
 
-This repository contains solutions to common (and uncommon) linked list challenges sourced from various platforms like LeetCode, HackerRank, and course materials.
+This repository contains solutions to common (and uncommon) linked list problems, likely sourced from platforms like LeetCode, HackerRank, or course materials.
 
-Each solution is typically:
-* Contained in its own file for clarity.
-* Written in [**Specify Your Language, e.g., Python/Java/C++**].
-* Well-commented to explain the logic and thought process.
+* **Language:** [**Specify Your Language, e.g., C++/Java/Python**]
+* **Structure:** Each problem's solution is organized for clarity.
+* **Comments:** My code is commented to explain the logic and thought process behind each solution.
 
 ## 🚀 How to Use
 
-Feel free to browse the repository to see different approaches to linked list problems.
+You can clone this repository to your local machine to review the solutions.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/gt102005/Problems_On_Singly_Linked_List.git](https://github.com/gt102005/Problems_On_Singly_Linked_List.git)
     ```
 2.  **Navigate to the project folder:**
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd Problems_On_Singly_Linked_List
     ```
 3.  **Browse the solutions:**
-    Each file is named according to the problem it solves.
+    Open the folder in your favorite editor (like VS Code) to see the code for each problem.
 
 ## ✅ Problems Solved
 
-Here is a list of the problems included in this repository. (You can update this list as you add more solutions!)
+Here is a list of the problems I have solved and included in this repository.
 
-* [ ] **Problem 1:** Reverse a Linked List
-* [ ] **Problem 2:** Detect a Cycle in a Linked List
-* [ ] **Problem 3:** Merge Two Sorted Lists
-* [ ] **Problem 4:** Remove Nth Node From End of List
-* [D_REPLACE_THIS_LINE]Add more problems here as you solve them...
+* [ ] **Problem 1:** (e.g., Reverse a Linked List)
+* [ ] **Problem 2:** (e.g., Detect a Cycle in a Linked List)
+* [ ] **Problem 3:** (e.g., Merge Two Sorted Lists)
+* [ ] **Problem 4:** (e.g., Remove Nth Node From End of List)
+* [ ] *...Add more problems here as you solve them!*
 
 *(You can mark the checkboxes like `[x]` as you complete them.)*
 
 ## 🤝 Contributing
 
-This is primarily a personal project for tracking my own learning. However, if you spot a bug in one of my solutions or have a more efficient approach, feel free to open an issue or submit a pull request!
+This is primarily a personal project for my own learning. However, if you spot a bug in one of my solutions or have a more efficient approach, feel free to open an issue or submit a pull request!
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingSolution`)
@@ -54,4 +53,4 @@ This is primarily a personal project for tracking my own learning. However, if y
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License.
